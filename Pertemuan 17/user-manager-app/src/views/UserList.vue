@@ -9,7 +9,7 @@
           <th class="border px-4 py-2">Avatar</th>
           <th class="border px-4 py-2">Nama</th>
           <th class="border px-4 py-2">Email</th>
-          <th class="border px-4 py-2">Aksi</th>
+          <th class="border px-4 py-2">Aks</th>
         </tr>
       </thead>
 
